@@ -6,4 +6,5 @@ pasos
     4 - mostrar los 2 primeros caracteres de la palabra
     5 - comprobar si la palabra arranca con "F" y postrar correcto o incorrecto
     6 - invertir la palabra y mostrar en pantalla
+    
 '''
